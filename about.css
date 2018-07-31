@@ -1,0 +1,52 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: #101133;
+}
+
+.top_nav_item {
+	color: white;
+	font-size: 1.2em;
+	margin:85px;
+}
+
+.top_nav_item:hover {
+	color:grey;
+	text-align:right;
+	text-decoration:underline;
+}
+
+#page_title_text{
+	text-align:center;
+	letter-spacing: 4px;
+	background-color:grey;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	padding:5px;
+	margin-align
+
+}
+
+#paragraph{
+	line-height:1.6;
+	overflow: auto;
+}
+
+#picture{
+	display:circle;
+	margin-left:auto;
+	margin-right:auto;
+	width:25%;
+	float:left;
+}
+
+#paragraph{
+	background-color: grey;
+	padding:20px;
+	width:88%;
+	margin:auto;
+}
+
+#htwo{
+	color:white;
+	text-align:center;
+}

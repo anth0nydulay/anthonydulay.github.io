@@ -1,0 +1,43 @@
+body {
+	font-family: Georgia;
+	background: maroon;
+}
+
+.top_nav_item {
+	color: grey;
+	font-size: 1.2em;
+	margin:85px;
+}
+
+.top_nav_item:hover {
+	color:snow;
+	text-align:right;
+	text-decoration:underline;
+}
+
+#page_title_text{
+	text-align:center;
+	letter-spacing: 4px;
+	background-color:grey;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	padding:5px;
+}
+
+#paragraph{
+	line-height:1.6;
+}
+
+#picture{
+	display:circle;
+	margin-left:auto;
+	margin-right:auto;
+	width:25%;
+}
+
+#paragraph{
+	background-color: grey;
+	padding:20px;
+	width:88%;
+	margin:auto;
+}

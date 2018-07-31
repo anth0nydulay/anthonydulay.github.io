@@ -1,0 +1,33 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	background: #101133;
+}
+
+.top_nav_item {
+	color: white;
+	font-size: 1.2em;
+	margin:85px;
+}
+
+.top_nav_item:hover {
+	color:grey;
+	text-align:right;
+	text-decoration:underline;
+}
+
+#hone{
+	color:white;
+	text-align:center;
+}
+
+iframe{
+	margin-left:275px;
+	margin-right:30px;
+}
+#page_title_text{
+	text-align:center;
+	letter-spacing: 4px;
+	background-color:grey;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	padding:5px;

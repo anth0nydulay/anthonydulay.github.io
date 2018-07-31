@@ -1,0 +1,45 @@
+table{
+	width:80%;
+	margin:auto;
+	border:black solid 2px;
+	border-collapse: collapse;
+}
+
+th, td{
+	border:snow solid 2px;
+}
+
+#col {
+	width:40%;
+}
+
+#col2, #col3 {
+	width: 30%;
+}
+
+.top_nav_item {
+	color: white;
+	font-size: 1.2em;
+	margin:85px;
+}
+
+.top_nav_item:hover {
+	color:grey;
+	text-align:right;
+	text-decoration:underline;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	background: #101133;
+	color:snow;
+}
+
+#page_title_text{
+	text-align:center;
+	letter-spacing: 4px;
+	background-color:grey;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	padding:5px;
+	color:black;
